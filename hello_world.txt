@@ -1,0 +1,2 @@
+echo "Hello World".
+This is my first helloworld txt in the odin project.  
